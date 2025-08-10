@@ -1,0 +1,8 @@
+Day 2: Completed Income Statement formula linking, calculated key financial ratios, and started balance sheet integration.
+
+- Added formulas for Revenue, COGS, EBIT, Interest Expense, Taxes, Net Income.
+- Created dynamic ratio calculations: Gross Profit Margin, Net Profit Margin, ROE, Debt to Equity, Interest Coverage.
+- Linked Balance Sheet retained earnings and equity to Income Statement results.
+- Updated README with Day 2 progress and learning notes.
+
+Preparing for next step: Efficiency Ratios and DuPont Analysis.
