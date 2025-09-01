@@ -35,19 +35,6 @@ Enterprise Value
 
 EV = Σ PV(FCFF) + PV(Terminal Value)
 
-🔹 Excel Cell Map (Sample Layout)
-Cell	Formula	Description
-B3	2025 Revenue	Base year revenue input
-C3	=B3*(1+Growth%)	Revenue forecast
-B6	=C3*OPM%	EBIT
-B7	=B6*(1-Tax%)	NOPAT
-B10	=B7+Depreciation-Capex-ΔWC	FCFF
-B13	=1/(1+WACC)^Year	Discount Factor
-B14	=B10*B13	PV of FCFF
-B17	=(FCFF_next*(1+g))/(WACC-g)	Terminal Value
-B18	=B17*B13	PV of Terminal Value
-B20	=SUM(PV_FCFF_range)+B18	Enterprise Value
-🔹 Why This Matters
 
 Discounting: Captures risk and opportunity cost.
 
