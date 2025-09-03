@@ -15,15 +15,6 @@ The goal: Build a **full discounted cash flow (DCF) valuation** model from scrat
 
 ---
 
-## 📊 Files Included
-| File Name                       | Description                                    |
-|--------------------------------|------------------------------------------------|
-| `HDFC_DCF_Model.xlsx`          | Full valuation model with working formulas     |
-| `Sensitivity_Table.xlsx`       | Sensitivity & scenario analysis                |
-| `Assumptions_Sheet.pdf`        | Clean summary of all input assumptions         |
-
----
-
 ## 🔍 Skills Demonstrated
 - Financial statement analysis  
 - Forecasting & budgeting  
