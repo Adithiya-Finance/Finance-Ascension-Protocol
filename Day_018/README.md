@@ -72,5 +72,3 @@ Each multiple is **dimensionless** — it rescales performance into a valuation 
 Valuation is not a single truth but a **mathematical negotiation space**.
 
 ---
-
-👉 Would you like me to also add a **football field chart in Excel (graph visual)** for Day 18 so that the README links directly to a clean visualization, not just tables?
