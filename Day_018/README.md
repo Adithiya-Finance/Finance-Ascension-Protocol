@@ -15,14 +15,14 @@ Valuation can be constructed either:
 The **relative framework** treats valuation as a *ratio system*:
 
 $$
-{Multiple} ={Value Metric (EV or Equity)} (Revenue, EBITDA, Net Income)}}
+\text{Multiple} = \frac{\text{Value Metric (EV or Equity)}}{\text{Performance Metric (Revenue, EBITDA, Net Income)}}
 $$
 
 Examples:
 
-* $EV/Revenue = {EV}{Revenue}$
-* $EV/EBITDA = EV}{EBITDA}$
-* $P/E = {Market Cap}{Net Income}$
+* $EV/Revenue = \frac{EV}{Revenue}$
+* $EV/EBITDA = \frac{EV}{EBITDA}$
+* $P/E = \frac{Market Cap}{Net Income}$
 
 Each multiple is **dimensionless** — it rescales performance into a valuation benchmark.
 
@@ -50,8 +50,8 @@ Each multiple is **dimensionless** — it rescales performance into a valuation 
    Apply peer multiples to the target company’s metrics:
 
    $$
-   \text{Implied Value} = {Company Metric} {Peer Multiple}
-   
+   \text{Implied Value} = \text{Company Metric} \times \text{Peer Multiple}
+   $$
 
 4. **Step 4: Triangulation**
    Compare the implied range with the **DCF valuation** (Day 17).
@@ -66,11 +66,11 @@ Each multiple is **dimensionless** — it rescales performance into a valuation 
 * Together, they define a **valuation corridor**:
 
   $$
-   {DCF Interval}]{Comps Interval}]
+  V \in [\text{DCF Interval}] \cap [\text{Comps Interval}]
   $$
 
 Valuation is not a single truth but a **mathematical negotiation space**.
 
 ---
 
- 
+👉 Would you like me to also add a **football field chart in Excel (graph visual)** for Day 18 so that the README links directly to a clean visualization, not just tables?
